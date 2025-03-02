@@ -11,6 +11,13 @@ main {
   border-radius: 10px;
   margin-left: 48px;
 }
+
+img {
+	max-width: 90% ;
+	margin: auto ;
+	display: block ;
+	border: none ;}
+
 .side-bar {
   width: 25px;
   position: fixed;
